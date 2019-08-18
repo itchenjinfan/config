@@ -20,4 +20,4 @@ eureka:
     #租约到期，服务时效：默认90秒
     lease-expiration-duration-in-seconds: 150
     #租约续约间隔时间，默认30秒
-    lease-renewal-interval-in-seconds: 30
+    lease-renewal-interval-in-seconds: 111111111111111111111111111111111111111
